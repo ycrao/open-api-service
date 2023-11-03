@@ -1,0 +1,14 @@
+api:
+  name: hot-chicken-soup
+  short_name: hcs
+  description: 毒鸡汤
+resource:
+  type: sentence
+  open_data: true
+  origin:
+    official_website: 'http://www.nows.fun/'
+    repo_url: 'https://github.com/egotong/nows'
+service:
+  database: raw-text
+  path: /s/hot-chicken-soup/*
+

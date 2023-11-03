@@ -1,0 +1,14 @@
+api:
+  name: love-words
+  short_name: lw
+  description: 土味情话
+resource:
+  type: sentence
+  open_data: true
+  origin:
+    official_website: ''
+    repo_url: 'https://github.com/zerosoul/honeyed-words-generator'
+service:
+  database: raw-text
+  path: /s/love-words/*
+

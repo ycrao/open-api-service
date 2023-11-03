@@ -1,0 +1,14 @@
+api:
+  name: dog-diary
+  short_name: dd
+  description: 舔狗日记
+resource:
+  type: sentence
+  open_data: true
+  origin:
+    official_website: 'https://we.dog/'
+    repo_url: 'https://github.com/xiongbao/we.dog'
+service:
+  database: raw-text
+  path: /s/dog-diary/*
+
