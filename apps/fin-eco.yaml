@@ -1,0 +1,14 @@
+api:
+  name: fin-eco
+  short_name: fe
+  description: 财经资讯及基金股票价格
+resource:
+  type: tool
+  open_data: true
+  origin:
+    official_website: ''
+    repo_url: 'https://github.com/ycrao/some-spider-code'
+service:
+  database: 3rd-party-api
+  path: /*
+

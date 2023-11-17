@@ -1,0 +1,14 @@
+api:
+  name: enlightenment-education
+  short_name: ee
+  description: 蒙学教育
+resource:
+  type: literature
+  open_data: true
+  origin:
+    official_website: 'https://wingbo.github.io/'
+    repo_url: 'https://github.com/WingBo/'
+service:
+  database: raw-html
+  path: /*
+
