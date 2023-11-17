@@ -8,7 +8,7 @@
 - 舔狗日记/dog-diary: [source](apps/dog-diary.yaml) [json](https://api.ystatic.cn/s/dog-diary/random.json) [text](https://api.ystatic.cn/s/dog-diary/random.txt) [html](https://api.ystatic.cn/s/dog-diary/index.html)
 - 土味情话/love-words: [source](apps/love-words.yaml) [json](https://api.ystatic.cn/s/love-words/random.json) [text](https://api.ystatic.cn/s/love-words/random.json)
 - 蒙学教育/enlightenment-education: [source](apps/enlightenment-education.yaml) [online](https://wingbo.github.io/)
-- 财经资讯及基金股票价格/fin-eco: [source](apps/fin-eco.yaml) [repo](https://github.com/ycrao/some-spider-code) 受目标网站反爬虫限制，暂无 online 接口，建议本地代码使用
+- 财经资讯及基金股票价格/fin-eco: [source](apps/fin-eco.yaml) [repo](https://github.com/ycrao/some-spider-code) 受目标网站反爬虫限制，暂无 online 接口，建议下载仓库代码本地使用
 
 ### collaboration
 
